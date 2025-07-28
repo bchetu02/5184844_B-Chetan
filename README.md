@@ -1,3 +1,4 @@
 # 5184844_B-Chetan
-![SDLC Certificate ](SDLC/IMAGE1.jpg)
+![Git_week2](Git_week2/IMAGE.jpg)
+
 
