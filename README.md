@@ -1,3 +1,3 @@
 # 5184844_B-Chetan
-![SDLC Certificate ](SDLC/IMAGE.jpg)
+![SDLC Certificate ](SDLC/IMAGE1.jpg)
 
