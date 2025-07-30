@@ -4,5 +4,6 @@
 ![Git_week2](Git_week2/IMAGE.jpg)
 ![Linux_week3](Linux_week3/practice1.png)
 ![Linux_week3](Linux_week3/practice2.png)
-
+![Linux_week3](Linux_week3/practice3.png)
+![Linux_week3](Linux_week3/practice4.png)
 
