@@ -6,7 +6,8 @@
 ![Linux_week3](Linux_week3/practice2.png)
 ![Linux_week3](Linux_week3/practice3.png)
 ![Linux_week3](Linux_week3/practice4.png)
-![Certificate](c-certi_week4/certicbasic.png)
+![c-programming_week4](c-programming_week4/c-certi_week4/certicbasic.png)
+![c-programming_week4](c-programming_week4/c-certi_week4/certic_im.png)
 
 
 
