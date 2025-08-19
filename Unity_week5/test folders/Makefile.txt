@@ -1,0 +1,18 @@
+  1  CC = gcc
+     2
+     3  TARGET = program.exe
+     4
+     5
+     6  SRC = main.c math.c unity.c leapyear.c common.c
+     7  OBJ = $(SRC:.c=.o)
+     8
+     9
+    10  $(TARGET): $(OBJ)
+    11          gcc $(OBJ) -o $(TARGET)
+    12
+    13
+    14  %.o: %.c %.h
+    15          $(CC) -c $< -o $@
+    16
+    17  clean:
+    18          rm -f $(OBJ) $(TARGET)
