@@ -11,7 +11,7 @@ It contains **certificates, exercises, and step-by-step tasks** that highlight m
 
 ## 📘 Topics Covered  
 
-- 🛠️ [SDLC](SDLC/README.md)  
+- 🛠️ [SDLC][def]  
 - 🌱 [Git & Version Control](GIT/README.md)  
 - 🐧 [Linux Command Line](LINUX/README.md)  
 - 💻 [C Programming](C/README.md)  
@@ -23,6 +23,8 @@ It contains **certificates, exercises, and step-by-step tasks** that highlight m
 👤 **Created by**: B Chetan  
 
 ---
+
+
 ![SDLC_week1](SDLC_week1/IMAGE1.jpg)
 ![SDLC_week1](SDLC_week1/IMAGE2.jpg)
 ![Git_week2](Git_week2/IMAGE.jpg)
@@ -38,3 +40,6 @@ It contains **certificates, exercises, and step-by-step tasks** that highlight m
 
 
 
+
+
+[def]: SDLC/README.md
