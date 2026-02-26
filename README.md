@@ -11,7 +11,7 @@ It contains **certificates, exercises, and step-by-step tasks** that highlight m
 
 ## 📘 Topics Covered  
 
-- 🛠️ [SDLC][def]  
+- 🛠️ [SDLC][SDLC_week1/README.md]  
 - 🌱 [Git & Version Control](GIT/README.md)  
 - 🐧 [Linux Command Line](LINUX/README.md)  
 - 💻 [C Programming](C/README.md)  
