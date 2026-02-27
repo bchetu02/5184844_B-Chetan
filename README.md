@@ -1,5 +1,18 @@
 # 5184844_B-Chetan
 ---
+# 📘 B Chetan
+
+![Repo Size](https://img.shields.io/github/repo-size/bchetu02/5184844_B-Chetan)
+![Last Commit](https://img.shields.io/github/last-commit/bchetu02/5184844_B-Chetan)
+![Top Language](https://img.shields.io/github/languages/top/bchetu02/5184844_B-Chetan)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bchetu02&show_icons=true&theme=default)
+
+
+---
+
 
 ## 📚 Overview  
 Welcome to my repository! 🚀  
@@ -15,7 +28,7 @@ It contains **certificates, exercises, and step-by-step tasks** that highlight m
 - 🌱[Git & Version Control](Git_week2/README.md)
 - 🐧[Linux Command Line](Linux_week3/README.md)
 - 💻[C Programming](c-programming_week4/README.md)  
--  [Unit Testing with Unity Framework](Unity_week5/README.md)        
+-  [Unity – Week 5](Unity_week5/README.md)
 
 ---
 
