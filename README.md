@@ -24,11 +24,11 @@ It contains **certificates, exercises, and step-by-step tasks** that highlight m
 
 ## 📘 Topics Covered  
 
-- 🛠️[SDLC](SDLC_week1/README.md)
-- 🌱[Git & Version Control](Git_week2/README.md)
-- 🐧[Linux Command Line](Linux_week3/README.md)
-- 💻[C Programming](c-programming_week4/README.md)  
--  [Unity – Week 5](Unity_week5/README.md)
+- 📘🌱 [SDLC – Week 1](SDLC_week1/README.md)
+- 🔧🌿 [Git – Week 2](Git_week2/README.md)
+- 🐧💻 [Linux – Week 3](Linux_week3/README.md)
+- 💻🧠 [C Programming – Week 4](c-programming_week4/README.md)
+- 🎮🚀 [Unity – Week 5](Unity_week5/README.md)
 
 ---
 
