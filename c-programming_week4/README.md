@@ -10,8 +10,8 @@ This folder contains C programming practice files and exercises.
 
 ---
 
-## 📂 Subfolders
+## 📂 folders
 
-- 🔹m[HackerRank Programs](HackerRank/)
+- 🔹 [HackerRank Programs](HackerRank/)
 - 🔹 [C Certification Practice](c-certi_week4/)
 
