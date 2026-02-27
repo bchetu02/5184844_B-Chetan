@@ -7,7 +7,7 @@ This folder contains Unity practice files and project resources.
 ## 📂 Project Folders
 
 - 🖼[Images](images/)
-- 📁[Test Folders](test folders/)
+- 📁[Test Folders](test_folders/)
 
 ---
 
