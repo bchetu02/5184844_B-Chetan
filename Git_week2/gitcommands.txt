@@ -1,0 +1,107 @@
+git  add .
+git  push
+git add .
+git blame -L 10,20 hello.c
+git blame 2c27bf0 hello.c
+git blame hello.c
+git branch
+git check-ignore -v manju.c
+git checkout
+git checkout feature1 
+git checkout main
+git clean -f
+git clean -fd
+git clean -n
+git co feature1 
+git co main
+git co main 
+git commit
+git commit -m "added Linux practice screenshot"
+git commit -m "added c certificates"
+git commit -m "added new c assignment file"
+git commit -m "corrected error"
+git commit -m "modified c file"
+git commit -m"Added linux practice photo"
+git commit -m"added 2nd problem solution"
+git commit -m"added c file
+git commit -m"added c file"
+git commit -m"added extra line"
+git commit -m"added hackerrank first problem"
+git commit -m"added new c file"
+git commit -m"added new c problems"
+git commit -m"added new file"
+git commit -m"ff"
+git commit -m"final commit for today"
+git commit -m"modified again"
+git commit -m"modified c file"
+git commit -m"modified c"
+git commit -m"modified hello.c"
+git commit -m"removed c file"
+git commit -m"restored c file
+git commit im"removed c file"
+git config --global alias.co checkout 
+git config --global alias.s status 
+git diff
+git diff 
+git diff --cached
+git diff --name-only
+git diff --name-only.
+git diff --stat
+git diff 548586a e73c285
+git diff HEAD
+git diff e73c285 548586a
+git diff hello.c
+git diff main feature1
+git diff main feature1 
+git diif
+git log
+git log --oneline
+git log --oneline hello.c
+git log --oneline.
+git log --oneliner
+git log --onlene hello.c
+git log --online hello.c
+git log --onliner hello.c
+git log --stat
+git log -n 10
+git log -p hello.c
+git log hello.c
+git log.
+git merge feature1 
+git merge feature1 main
+git merge main feature1
+git pull
+git push
+git push origin v1.0
+git push v1.0
+git rebase main
+git reflog
+git reset --hard 97d15fb
+git reset --hard bdc0a7f
+git reset 150d4d5
+git restore --source=HEAD~2 -- hello.c
+git restore --source=HEAD~2 --hello.c
+git revert --abort
+git revert --continue
+git revert 150d4d3
+git revert 150d4d5
+git revert 97d15fb
+git revert HEAD~1
+git rm .gitignore
+git rm hello.c
+git rm manju.c
+git s
+git show 2c27bf02
+git show v1.0
+git stash apply
+git stash drop stash@{0}
+git stash list
+git stash ls
+git stash save "modified c file"
+git status
+git tag
+git tag -a v1.0 -m "version 1.0 "
+git tag -a v1.0 im "version 1.0 "
+history | grep git | sed 's/^[ ]*[0-9]\+[ ]*//' | sort -u > git_commands.txt
+nano .gitignore
+nano.gitignore
